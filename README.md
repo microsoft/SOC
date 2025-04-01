@@ -2,7 +2,7 @@
 ![Alt text](/i/soc-hero.jpg?raw=true "Hero Image")
 The Student Security Operations Center (SOC) Toolkit is designed to equip facilitators with everything needed to prepare high school and college students to actively contribute to a Security Operations Center at their school or institution. With structured learning modules, hands-on experience, and certification pathways, it provides the resources to implement a student SOC program. It includes step-by-step implementation guidance, a comprehensive skilling course, real-world cybersecurity scenarios, and built-in assessments—all aimed at helping students develop the skills necessary for success in the cybersecurity workforce while enhancing institutional security.
 
-## SOC course for students
+## SOC program foundations training
 
 This 3-hour interactive training is designed to prepare  high school and higher education students with the hands-on experience and practical knowledge needed to actively contribute to a Security Operations Center (SOC) at their school or institution.
 
@@ -17,7 +17,7 @@ Over four 45-minute, self-paced lessons, participants will explore SOC functions
 [<img src="/i/preview.png" alt="Preview the interactive course" width="200"/>](https://sburt1.github.io/student-soc-toolkit/content/#)
 
 ### Facilitation and implementation guide
-As a key component of the Student SOC Toolkit, the facilitation guide offers detailed support for launching and managing a student Security Operations Center. It provides a roadmap for facilitators, covering critical planning strategies, best practices for implementation, and facilitation tips for the _SOC for students_ training course. Whether starting a new program or enhancing an existing one, this guide ensures facilitators are equipped with the tools to help students gain real-world cybersecurity skills and engage with operational security challenges effectively.
+As a key component of the Student SOC Toolkit, the facilitation guide offers detailed support for launching and managing a student Security Operations Center. It provides a roadmap for facilitators, covering critical planning strategies, best practices for implementation, and facilitation tips for the _SOC program foundations training_ course. Whether starting a new program or enhancing an existing one, this guide ensures facilitators are equipped with the tools to help students gain real-world cybersecurity skills and engage with operational security challenges effectively.
 
 [<img src="/i/guide.png" alt="Preview the interactive course" width="200"/>](/resources/MSFT%20SOC%20Training%20for%20Students-Implementation%20Guide_March2025.pdf)
 
