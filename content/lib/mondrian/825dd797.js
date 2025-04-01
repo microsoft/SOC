@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_articulate_mondrian_bundles=self.webpackChunk_articulate_mondrian_bundles||[]).push([[356],{4356:(e,n,a)=>{a.d(n,{j:()=>u,x:()=>s});const s="4.2.18",u="4"}}]);
