@@ -4,18 +4,18 @@ The Student Security Operations Center (SOC) Toolkit is designed to equip facili
 
 ## SOC course for students
 
-This 3-hour training is designed to prepare upper high school and higher education students with the hands-on experience and practical knowledge needed to actively contribute to a Security Operations Center (SOC) at their school or institution.
+This 3-hour interactive training is designed to prepare  high school and higher education students with the hands-on experience and practical knowledge needed to actively contribute to a Security Operations Center (SOC) at their school or institution.
 
-Over four 45-minute, self-paced lessons, you'll explore SOC functions, best practices, and tools like Microsoft Sentinel, Defender, and Security Copilot, gaining skills in incident response and threat detection. You'll also work through simulated security incidents, applying real-world practices to build your problem-solving and decision-making abilities. By the end, you'll have the foundation needed to take on a role in your institution’s SOC and pursue further training and certifications in the cybersecurity field.
+Over four 45-minute, self-paced lessons, participants will explore SOC functions, best practices, and tools like Microsoft Sentinel, Defender, and Security Copilot, gaining skills in incident response and threat detection. Learners will work through simulated security incidents, applying real-world practices to build problem-solving and decision-making abilities. By the end, students will have the foundation needed to take on a role in their institution’s SOC and pursue further training and certifications in the cybersecurity field.
 
 ### Lesson topics
-1. Course overview
+1. Course overview and introduction to Security Operations Centers
 2. SOC tools and technologies
 3. Scenarios and practical applications
 4. Best practices and career readiness
 
 ### Facilitation and implementation guide
-As a key component of the Student SOC Toolkit, the facilitation guide offers detailed support for launching and managing a student Security Operations Center. It provides a roadmap for facilitators, covering critical planning strategies, best practices for implementation, and facilitation tips for the _SOC for students_ training course. Whether you're starting a new program or enhancing an existing one, this guide ensures you're equipped with the tools to help students gain real-world cybersecurity skills and engage with operational security challenges effectively.
+As a key component of the Student SOC Toolkit, the facilitation guide offers detailed support for launching and managing a student Security Operations Center. It provides a roadmap for facilitators, covering critical planning strategies, best practices for implementation, and facilitation tips for the _SOC for students_ training course. Whether starting a new program or enhancing an existing one, this guide ensures facilitators are equipped with the tools to help students gain real-world cybersecurity skills and engage with operational security challenges effectively.
 
 ### SCORM file
 Select the link below to download the course as a SCORM v1.2 Learning object to install and adapt in your own learning management system (LMS).
