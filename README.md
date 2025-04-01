@@ -14,7 +14,7 @@ Over four 45-minute, self-paced lessons, participants will explore SOC functions
 3. Scenarios and practical applications
 4. Best practices and career readiness
 
-[<img src="/i/preview.png" alt="Preview the interactive course" width="200"/>](https://sburt1.github.io/socsinabox/content/#/)
+[<img src="/i/preview.png" alt="Preview the interactive course" width="200"/>](https://sburt1.github.io/student-soc-toolkit/content/#)
 
 ### Facilitation and implementation guide
 As a key component of the Student SOC Toolkit, the facilitation guide offers detailed support for launching and managing a student Security Operations Center. It provides a roadmap for facilitators, covering critical planning strategies, best practices for implementation, and facilitation tips for the _SOC for students_ training course. Whether starting a new program or enhancing an existing one, this guide ensures facilitators are equipped with the tools to help students gain real-world cybersecurity skills and engage with operational security challenges effectively.
