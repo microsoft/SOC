@@ -1,5 +1,5 @@
 # Microsoft Student Security Operations Center Toolkit
-
+![Alt text](/soc-hero.jpg?raw=true "Hero Image")
 The Student Security Operations Center (SOC) Toolkit is designed to equip facilitators with everything needed to prepare high school and college students to actively contribute to a Security Operations Center at their school or institution. With structured learning modules, hands-on experience, and certification pathways, it provides the resources to implement a student SOC program. It includes step-by-step implementation guidance, a comprehensive skilling course, real-world cybersecurity scenarios, and built-in assessments—all aimed at helping students develop the skills necessary for success in the cybersecurity workforce while enhancing institutional security.
 
 ## SOC course for students
