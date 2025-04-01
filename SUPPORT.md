@@ -8,4 +8,4 @@ feature request as a new Issue.
 
 ## Microsoft Support Policy  
 
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+Support for this **PROJECT** is limited to the resources listed above.
