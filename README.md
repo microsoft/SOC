@@ -2,7 +2,7 @@
 ![Alt text](/i/soc-hero.jpg?raw=true "Hero Image")
 The Student Security Operations Center (SOC) Toolkit is designed to equip facilitators with everything needed to prepare high school and college students to actively contribute to a Security Operations Center at their school or institution. With structured learning modules, hands-on experience, and certification pathways, it provides the resources to implement a student SOC program. It includes step-by-step implementation guidance, a comprehensive skilling course, real-world cybersecurity scenarios, and built-in assessments—all aimed at helping students develop the skills necessary for success in the cybersecurity workforce while enhancing institutional security.
 
-## SOC program foundations training
+## Student SOC program foundations training
 
 This 3-hour interactive training is designed to prepare  high school and higher education students with the hands-on experience and practical knowledge needed to actively contribute to a Security Operations Center (SOC) at their school or institution.
 
