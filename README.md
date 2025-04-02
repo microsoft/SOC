@@ -17,7 +17,7 @@ Over four 45-minute, self-paced lessons, participants will explore SOC functions
 [<img src="/i/preview.png" alt="Preview the interactive course" width="200"/>](https://sburt1.github.io/student-soc-toolkit/content/#)
 
 ### Facilitation and implementation guide
-As a key component of the Student SOC Toolkit, the facilitation guide offers detailed support for launching and managing a student Security Operations Center. It provides a roadmap for facilitators, covering critical planning strategies, best practices for implementation, and facilitation tips for the _SOC program foundations training_ course. Whether starting a new program or enhancing an existing one, this guide ensures facilitators are equipped with the tools to help students gain real-world cybersecurity skills and engage with operational security challenges effectively.
+As a key component of the Student SOC Toolkit, the facilitation guide offers detailed support for launching and managing a student Security Operations Center. It provides a roadmap for facilitators, covering critical planning strategies, best practices for implementation, and facilitation tips for the _Student SOC program foundations training_ course. Whether starting a new program or enhancing an existing one, this guide ensures facilitators are equipped with the tools to help students gain real-world cybersecurity skills and engage with operational security challenges effectively.
 
 [<img src="/i/guide.png" alt="Preview the interactive course" width="200"/>](/resources/MSFT%20SOC%20Training%20for%20Students-Implementation%20Guide_March2025.pdf)
 
