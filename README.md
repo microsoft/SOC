@@ -24,6 +24,6 @@ As a key component of the Student SOC Toolkit, the facilitation guide offers det
 ### SCORM file
 Select the link below to download the course as a SCORM v1.2 Learning object to install and adapt in your own learning management system (LMS).
 
-[<img src="/i/scorm.png" alt="Download the SCORM zip file" width="200"/>](/resources/SOCs-in-a-Box-SCORM.zip)
+[<img src="/i/scorm.png" alt="Download the SCORM zip file" width="200"/>](https://microsoft.github.io/SOC/source/SCORM/student-soc-program-foundations-training-scorm12.zip)
 
 The course and its associated resources are packaged as a SCORM 1.2 learning object which is compatible with most LMS platforms. If you are unfamiliar with SCORM learning objects, take a look at [SCORM Explained 101](https://scorm.com/scorm-explained/one-minute-scorm-overview/) as well as these two videos that demonstrate [how to import and publish SCORM files](https://k12blueprint.com/sites/default/files/elearning/SCORM-1%20Import%20and%20Publish.mp4) and the second on [adapting and personalizing SCORM files](https://k12blueprint.com/sites/default/files/elearning/SCORM%202%20Personalize.mp4) in your LMS.
