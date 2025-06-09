@@ -29,9 +29,9 @@ Select the link below to download the course as a SCORM v1.2 Learning object to 
 The course and its associated resources are packaged as a SCORM 1.2 learning object which is compatible with most LMS platforms. If you are unfamiliar with SCORM learning objects, take a look at [SCORM Explained 101](https://scorm.com/scorm-explained/one-minute-scorm-overview/) as well as these two videos that demonstrate [how to import and publish SCORM files](https://k12blueprint.com/sites/default/files/elearning/SCORM-1%20Import%20and%20Publish.mp4) and the second on [adapting and personalizing SCORM files](https://k12blueprint.com/sites/default/files/elearning/SCORM%202%20Personalize.mp4) in your LMS.
 
 ## Additional Resources
-![Journey Map](https://microsoft.github.io/SOC/source/files/Journey-Map_June.2025.png "Journey Map")
+![Journey Map](https://microsoft.github.io/SOC/source/files/Journey-Map_June2025.png "Journey Map")
 Microsoft has developed a collection of supporting materials to asset you with your Student SOC planning and deployment.
 - [Student-lead Security Operations Centers 1-pager](https://microsoft.github.io/SOC/source/files/Student-Led-Security-Operations-Centers.pdf)
-- Introductory Email Template (Word doc)
-- Onboarding Email Template (Word doc)
-- Donwnload a copy of the Jourey Map (PNG)
+- [Introductory Email Template](https://microsoft.github.io/SOC/source/files/intro-email-template.docx)
+- [Onboarding Email Template](https://microsoft.github.io/SOC/source/files/onboarding-email-template.docx)
+- [Donwnload a copy of the Jourey Map](https://microsoft.github.io/SOC/source/files/Journey-Map_June2025.png)
